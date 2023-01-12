@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Galano Grotesque Regular";
+  src: url("../public/font/galanogrotesque-regular.otf");
+}
+
+@font-face {
+  font-family: "Galano Grotesque Medium";
+  src: url("../public/font/galanogrotesque-medium.otf");
+}
+
+@font-face {
+  font-family: "Galano Grotesque Semibold";
+  src: url("../public/font/galanogrotesque-semibold.otf");
+}
