@@ -11,10 +11,10 @@ const SlogansLists = () => {
             <p className="font-galano text-base text-dark font-normal px-4">
               {slogan}
             </p>
-            <p class="absolute hidden w-fit -left-[120px] top-[11px] font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
+            <p class="absolute hidden w-fit -left-[120px] top-4 font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
               Click to copy
             </p>
-            <p class="absolute hidden w-fit -left-[120px] top-[11px] font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
+            <p class="absolute hidden w-fit -left-[120px] top-4 font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
               Copied!
             </p>
           </div>
