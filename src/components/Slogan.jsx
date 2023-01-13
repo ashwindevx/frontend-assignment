@@ -1,6 +1,6 @@
-import Button from "./Button";
 import Cross from "../../public/images/icons/cross.svg";
 import Arrow from "../../public/images/icons/arrow.svg";
+import Button from "./Button";
 import SlogansLists from "./SlogansLists";
 
 const Slogan = () => {

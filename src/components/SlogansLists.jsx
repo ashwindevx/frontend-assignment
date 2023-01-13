@@ -6,9 +6,9 @@ const SlogansLists = () => {
         return (
           <div
             key={id}
-            className="rounded-[4px] bg-light cursor-pointer relative"
+            className="rounded-[4px] h-[60px] flex items-center bg-light cursor-pointer relative"
           >
-            <p className="font-galano text-base text-dark font-normal px-4 py-3">
+            <p className="font-galano text-base text-dark font-normal px-4">
               {slogan}
             </p>
             <p class="absolute hidden w-fit -left-[120px] top-[11px] font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
@@ -29,15 +29,15 @@ export default SlogansLists;
 let slogans = [
   {
     id: 1,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 2,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 3,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 4,
@@ -49,54 +49,54 @@ let slogans = [
   },
   {
     id: 6,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 7,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 8,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 9,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 10,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 11,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 12,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 13,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 14,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 15,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 16,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
   {
     id: 17,
-    slogan: "Review the facts cool is the best",
+    slogan: "There is no Sore it will Not Heal, No cool it will not Subdue.",
   },
   {
     id: 18,
-    slogan: "Review the facts cool is the best",
+    slogan: "coziness building for tomorrow",
   },
 ];
