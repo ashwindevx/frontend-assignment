@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         galano: ["Galano Grotesque", "Segoe UI"],
       },
+      width: {
+        layout: "1120px",
+      },
     },
   },
   plugins: [],

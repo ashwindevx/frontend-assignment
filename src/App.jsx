@@ -1,10 +1,17 @@
+import Header from "./components/Header";
+import Slogan from "./components/Slogan";
+import Features from "./components/Features";
+import Products from "./components/Products";
+import Footer from "./components/Footer";
+
 function App() {
   return (
-    <div className="bg-primary">
-      <h1 className="text-3xl font-galano font-normal">Hello world!</h1>
-      <h1 className="text-3xl font-galano font-medium">Hello world!</h1>
-      <h1 className="text-3xl font-galano font-semibold">Hello world!</h1>
-      <img src="../public/images/white.svg" alt="" />
+    <div className="bg-secondary">
+      <Header />
+      <Slogan />
+      <Features />
+      <Products />
+      <Footer />
     </div>
   );
 }
