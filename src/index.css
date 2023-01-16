@@ -17,15 +17,15 @@
 
 @font-face {
   font-family: "Galano Grotesque Regular";
-  src: url("../public/font/galanogrotesque-regular.otf");
+  src: url("/font/galanogrotesque-regular.otf") format("otf");
 }
 
 @font-face {
   font-family: "Galano Grotesque Medium";
-  src: url("../public/font/galanogrotesque-medium.otf");
+  src: url("/font/galanogrotesque-medium.otf") format("otf");
 }
 
 @font-face {
   font-family: "Galano Grotesque Semibold";
-  src: url("../public/font/galanogrotesque-semibold.otf");
+  src: url("/font/galanogrotesque-semibold.otf") format("otf");
 }
