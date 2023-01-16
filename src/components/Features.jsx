@@ -16,10 +16,8 @@ const Features = () => {
               <div>
                 <img src={icon} alt={heading} className="mb-6" />
               </div>
-              <h5 className="font-galano mb-2 font-medium text-dark text-xl">
-                {heading}
-              </h5>
-              <p className="font-galano font-normal text-base text-medium">
+              <h5 className="galanoMedium mb-2 text-dark text-xl">{heading}</h5>
+              <p className="galanoRegular text-base text-medium">
                 {description}
               </p>
             </div>

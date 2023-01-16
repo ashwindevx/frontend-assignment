@@ -13,13 +13,13 @@ const Footer = () => {
             <div className="flex flex-col">
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Contact
               </a>
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 FAQ's
               </a>
@@ -27,13 +27,13 @@ const Footer = () => {
             <div className="flex flex-col">
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Tutorials
               </a>
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Blog
               </a>
@@ -41,13 +41,13 @@ const Footer = () => {
             <div className="flex flex-col">
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Privacy
               </a>
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Banned Items
               </a>
@@ -55,16 +55,16 @@ const Footer = () => {
             <div className="flex flex-col">
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 About
               </a>
               <a
                 href="#"
-                className="font-galano flex items-center text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular flex items-center text-lg  text-white mb-[14px]"
               >
                 Jobs{" "}
-                <div className="inline-flex px-1.5 py-0.5 ml-1 rounded-full text-sm font-normal leading-4 bg-white text-dark">
+                <div className="inline-flex px-1.5 py-0.5 ml-1 rounded-full text-sm  leading-4 bg-white text-dark">
                   3
                 </div>
               </a>
@@ -72,19 +72,19 @@ const Footer = () => {
             <div className="flex flex-col">
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Facebook
               </a>
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Twitter
               </a>
               <a
                 href="#"
-                className="font-galano text-lg font-normal text-white mb-[14px]"
+                className="galanoRegular text-lg  text-white mb-[14px]"
               >
                 Linkedin
               </a>
@@ -93,11 +93,11 @@ const Footer = () => {
         </div>
         <div className="w-full h-[1px] bg-white bg-opacity-20 my-6"></div>
         <div className="flex justify-between items-center">
-          <p className="text-white font-galano 2020, All rights reserved.lano font-normal text-sm">
+          <p className="text-white galanoRegular text-sm">
             Dukaan 2020, All rights reserved.
           </p>
           <div>
-            <span className="flex text-white text-sm font-normal font-galano">
+            <span className="flex text-white text-sm galanoRegular">
               Made in{" "}
               <img src={Flag} alt="Indian Flag" className="ml-2 rounded-md" />
             </span>

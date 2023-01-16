@@ -14,12 +14,12 @@ const Header = () => {
             <a
               href="#"
               target="_blank"
-              className="text-white font-galano font-normal text-lg"
+              className="text-white galanoRegular text-lg"
             >
               Sign In
             </a>
             <Button
-              className={`ml-8 text-primary text-lg bg-white py-3 px-6`}
+              className={`ml-8 text-primary galanoRegular text-lg bg-white py-3 px-6`}
               link="#"
               children="Dukaan for PC"
             />

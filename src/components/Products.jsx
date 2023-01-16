@@ -6,7 +6,7 @@ import IG from "../../public/images/thumbnails/IG.png";
 const Products = () => {
   return (
     <div className="w-layout mx-auto pb-20 -mt-10">
-      <h1 className="font-galano tracking-tight font-semibold text-4xl text-dark mb-12">
+      <h1 className="galanoSemibold tracking-tight text-4xl text-dark mb-12">
         Try our other free products
       </h1>
       <div className="grid grid-cols-3 gap-8">
@@ -17,10 +17,10 @@ const Products = () => {
               <div>
                 <img src={thumbnail} alt={heading} />
               </div>
-              <h5 className="font-galano mb-1 font-medium text-dark mt-4 text-xl">
+              <h5 className="galanoMedium mb-1 text-dark mt-4 text-xl">
                 {heading}
               </h5>
-              <p className="font-galano font-normal text-base text-medium">
+              <p className="galanoRegular text-base text-medium">
                 {description}
               </p>
             </div>

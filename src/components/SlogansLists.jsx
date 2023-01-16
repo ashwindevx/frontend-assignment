@@ -8,13 +8,11 @@ const SlogansLists = () => {
             key={id}
             className="rounded-[4px] h-[60px] flex items-center bg-light cursor-pointer relative"
           >
-            <p className="font-galano text-base text-dark font-normal px-4">
-              {slogan}
-            </p>
-            <p class="absolute hidden w-fit -left-[120px] top-4 font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
+            <p className="galanoRegular text-base text-dark px-4">{slogan}</p>
+            <p class="absolute hidden w-fit -left-[120px] top-4 galanoRegular text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
               Click to copy
             </p>
-            <p class="absolute hidden w-fit -left-[120px] top-4 font-galano text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
+            <p class="absolute hidden w-fit -left-[120px] top-4 galanoRegular text-white bg-medium px-2 py-1 text-sm rounded-[4px]">
               Copied!
             </p>
           </div>

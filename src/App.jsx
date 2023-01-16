@@ -7,9 +7,6 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="bg-secondary">
-      <p className="text-3xl galanoRegular">Free Slogan Maker</p>
-      <p className="text-3xl galanoMedium">Free Slogan Maker</p>
-      <p className="text-3xl galanoSemibold">Free Slogan Maker</p>
       <Header />
       <Slogan />
       <Features />
