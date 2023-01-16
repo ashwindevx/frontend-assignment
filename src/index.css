@@ -17,17 +17,17 @@
 
 @font-face {
   font-family: "GalanoRegular";
-  src: url("font/galanogrotesque-regular.otf");
+  src: url("../public/font/galanogrotesque-regular.otf");
 }
 
 @font-face {
   font-family: "GalanoMedium";
-  src: url("font/galanogrotesque-medium.otf");
+  src: url("../public/font/galanogrotesque-medium.otf");
 }
 
 @font-face {
   font-family: "GalanoSemibold";
-  src: url("font/galanogrotesque-semibold.otf");
+  src: url("../public/font/galanogrotesque-semibold.otf");
 }
 
 .galanoRegular {
