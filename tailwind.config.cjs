@@ -10,9 +10,10 @@ module.exports = {
         medium: "#4D4D4D",
         light: "#F2F2F2",
       },
-      fontFamily: {
-        galano: ["Galano Grotesque", "Segoe UI"],
-      },
+      // fontFamily: {
+      //   Galano: ["Galano"],
+      //   galano: ["Galano Grotesque", "Segoe UI"],
+      // },
       width: {
         layout: "1120px",
       },

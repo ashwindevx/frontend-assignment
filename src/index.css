@@ -16,16 +16,28 @@
 }
 
 @font-face {
-  font-family: "Galano Grotesque Regular";
-  src: url("/font/galanogrotesque-regular.otf") format("otf");
+  font-family: "GalanoRegular";
+  src: url("font/galanogrotesque-regular.otf");
 }
 
 @font-face {
-  font-family: "Galano Grotesque Medium";
-  src: url("/font/galanogrotesque-medium.otf") format("otf");
+  font-family: "GalanoMedium";
+  src: url("font/galanogrotesque-medium.otf");
 }
 
 @font-face {
-  font-family: "Galano Grotesque Semibold";
-  src: url("/font/galanogrotesque-semibold.otf") format("otf");
+  font-family: "GalanoSemibold";
+  src: url("font/galanogrotesque-semibold.otf");
+}
+
+.galanoRegular {
+  font-family: GalanoRegular;
+}
+
+.galanoMedium {
+  font-family: GalanoMedium;
+}
+
+.galanoSemibold {
+  font-family: GalanoSemibold;
 }
